@@ -1,0 +1,24 @@
+/* BREAK POINT */
+
+/* PC */
+@media (min-width:1024px) {
+  
+}
+
+/* Tablet */
+@media (min-width:740px) and (max-width:1024px) {
+    .right,.left {
+        float: none;
+        width: 100%;
+    }
+}
+
+/* Mobile */
+@media (max-width:740px) {
+    .right,.left {
+        float: none;
+        width: 100%;
+    }
+   
+}
+
